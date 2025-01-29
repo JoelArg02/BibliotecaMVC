@@ -5,6 +5,7 @@ class Libro:
         self.autor = autor
         self.genero = genero
         self.disponibilidad = disponibilidad
+        self.prestado_a = None
 
     def prestar(self):
         if self.disponibilidad:
@@ -16,3 +17,4 @@ class Libro:
     def devolver(self):
         self.disponibilidad = True
         print(f"El libro '{self.titulo}' ha sido devuelto.")
+

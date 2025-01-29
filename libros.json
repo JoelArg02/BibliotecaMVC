@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Distop\u00eda",
+        "disponibilidad": false,
+        "prestado_a": "joel.darguello@gmail.com"
+    },
+    {
+        "id": 2,
+        "titulo": "Cien A\u00f1os de Soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "genero": "Realismo M\u00e1gico",
+        "disponibilidad": true,
+        "prestado_a": null
+    }
+]
