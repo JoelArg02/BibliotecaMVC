@@ -4,8 +4,8 @@
         "titulo": "1984",
         "autor": "George Orwell",
         "genero": "Distop\u00eda",
-        "disponibilidad": false,
-        "prestado_a": "joel.darguello@gmail.com"
+        "disponibilidad": true,
+        "prestado_a": null
     },
     {
         "id": 2,
